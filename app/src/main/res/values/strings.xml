@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kawiarnia</string>
+    <string name="Pobierz">WYBIERZ DANE</string>
+    <string name="numer">numer</string>string>
 </resources>
